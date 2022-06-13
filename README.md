@@ -1,5 +1,5 @@
 ### Hi there 👋 Iam Mohamed Magdy Computer Science Student,
-### I’m Also Back-end Developer
+### I’m also Back-end Developer
 🔭 I’m currently working on In many Projects using PHP,Laravel and django
 
 
