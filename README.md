@@ -1,4 +1,4 @@
-### Hi there 👋 Iam Mohamed Magdy Computer Science Student,
+### Hi there 👋 I am Mohamed Magdy Computer Science Student,
 ### I’m also Back-end Developer
 🔭 I’m currently working on In many Projects using PHP,Laravel and django
 
