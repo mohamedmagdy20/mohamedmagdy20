@@ -1,8 +1,5 @@
-### Hi there 👋 I am Mohamed Magdy Computer Science Student,
-### I’m also Back-end Developer
+### Hi there 👋 I am Mohamed Magdy Back-end Developer .
 🔭 I’m currently working on many Projects using PHP,Laravel and django
-
-
 <!--
 **mohamedmagdy20/mohamedmagdy20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
